@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0;
+  overflow: hidden;
+}
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.LeftTop {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.LeftTop button {
+  border: 0;
+  width: 32px;
+  height: 32px;
+  content: "";
+}
+.RightTop {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
